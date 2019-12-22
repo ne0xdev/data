@@ -1,1 +1,0 @@
-uc-cold.c
