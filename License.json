@@ -1,1 +1,2 @@
-[{"lic_key":"U2FsdGVkX1+adayD/zN7ieN/Ogb2qz28gXnbEhjL1Us=","die":"20.05.2020"}]
+[{"id":"user1","lic_key":"U2FsdGVkX1+adayD/zN7ieN/Ogb2qz28gXnbEhjL1Us=","die":"20.05.2020"},
+{"id":"user2","lic_key":"U2FsdGVkX1+adayD/zN7ieN/test=","die":"25.05.2020"}]
